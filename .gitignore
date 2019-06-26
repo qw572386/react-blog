@@ -1,0 +1,11 @@
+node_modules/
+dist/
+admin/node_modules/
+admin/dist/
+server/node_modules/
+server/dist/
+web/node_modules/
+web/dist
+.temp/
+.rn_temp/
+.DS_Store
